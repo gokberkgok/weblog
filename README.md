@@ -26,21 +26,7 @@ PREVIEW : https://streamable.com/2r17hy
 - Bunları accounts tablosundan ya da giriş yaptıktan sonra "Hesaplar" kısmından düzenleyebilirsiniz!
 
 ⛔️**BAZI YAŞANABİLECEK HATALAR**
-
-- Start.bat açılıp kapanıyor ise
-    Nodejs i kurmayı unutmuş olabilirsiniz
-    Başlat.bat ı sağ tıklayıp Düzenle yaptığınızda dosyanın yerinde hata olabilir (Varsayılan olarak C:/Weblog)
-
-- Kullanıcı adı ve şifreyi girdiğinizde cmd kapanıyor ise
-    SQL verisini okutmamış olabilirsiniz
-    accounts tablosunu kontrol edin
-    settings.js de veritabanınızın bilgileri yanlış olabilir
-
-- Error: ER_NO_SUCH_TABLE: Table 'data.[name]' doesn't exist hatası
-    SQL de o isme ait tablonuzun olmadığını ya da isminin değiştirildğini gösterir
-    
-Discord : gokberkk_ 
--- Gökberk
+Burayı inceleyin : https://github.com/gokberkgok/weblog/issues
 
 [EN]
 🚀**REQUIRED PROGRAMS**
@@ -60,18 +46,7 @@ Discord : gokberkk_
 - You can edit them in the accounts table or in the "Accounts" section after logging in!
 
 ⛔️**SOME POSSIBLE ERRORS**
+Check here : https://github.com/gokberkgok/weblog/issues
 
-- If start.bat opens and closes
-    You may have forgotten to install Nodejs
-    When you right-click Start.bat and Edit, there may be an error in the location of the file (C:/Weblog by default)
-
-- If cmd closes when you enter username and password
-    You may not have read the SQL data
-    Check the accounts table
-    your database information may be incorrect in settings.js
-
-- Error: ER_NO_SUCH_TABLE: Table 'data.[name]' doesn't exist error
-    Indicates that you do not have a table with that name in SQL or that the name has been changed
-    
 Discord : gokberkk_ 
 -- Gokberk
