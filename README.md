@@ -51,4 +51,3 @@ Whitelist Page
 - Check here : https://github.com/gokberkgok/weblog/issues
 
 Discord : gokberkk_ 
--- Gokberk
