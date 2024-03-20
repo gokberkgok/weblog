@@ -6,9 +6,10 @@ Main Page
 Whitelist Page
 ![whitelist_page](https://github.com/gokberkgok/weblog/assets/67126609/b20d511b-191d-4788-8b4c-c7550cd04f61)
 
-PREVIEW : https://streamable.com/2r17hy
+**PREVIEW : https://streamable.com/2r17hy**
 
 [TR]
+
 🚀**GEREKLİ PROGRAMLAR**
 - Apache İÇİN (Xampp) : https://www.apachefriends.org/tr/download.html
 - SQL Veritabanı için (HeidiSQL) : https://www.heidisql.com/download.php?download=installer
@@ -26,9 +27,10 @@ PREVIEW : https://streamable.com/2r17hy
 - Bunları accounts tablosundan ya da giriş yaptıktan sonra "Hesaplar" kısmından düzenleyebilirsiniz!
 
 ⛔️**BAZI YAŞANABİLECEK HATALAR**
-Burayı inceleyin : https://github.com/gokberkgok/weblog/issues
+- Burayı inceleyin : https://github.com/gokberkgok/weblog/issues
 
 [EN]
+
 🚀**REQUIRED PROGRAMS**
 - FOR Apache (Xampp) : https://www.apachefriends.org/tr/download.html
 - For SQL Database (HeidiSQL) : https://www.heidisql.com/download.php?download=installer
@@ -46,7 +48,7 @@ Burayı inceleyin : https://github.com/gokberkgok/weblog/issues
 - You can edit them in the accounts table or in the "Accounts" section after logging in!
 
 ⛔️**SOME POSSIBLE ERRORS**
-Check here : https://github.com/gokberkgok/weblog/issues
+- Check here : https://github.com/gokberkgok/weblog/issues
 
 Discord : gokberkk_ 
 -- Gokberk
