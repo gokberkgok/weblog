@@ -36,7 +36,7 @@ Whitelist Page
 - For SQL Database (HeidiSQL) : https://www.heidisql.com/download.php?download=installer
 - Node.js (REQUIRED) : https://nodejs.org/tr/download
 
-**🖥️KURULUM**
+**🖥️SETUP**
 - Put the folder on disk C (Fix Start.bat to set it)
 - Read the SQL file
 - Open the Start.Bat file and the system will be active
